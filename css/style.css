@@ -196,21 +196,21 @@ section {
     width: 100%;
 
 }
-
-.home-imgHover{
+/* here to make the background photo fade away */
+/* .home-imgHover{
     position: absolute;
     top: 0;
     right: 0;
     width: 45%;
     height: 100%;
     background: transparent;
-    /* border: 2px solid red; */
+    
     transition: 3s;
 }
 .home-imgHover:hover {
     background: var(--bg-color);
     opacity: .8;
-}
+} */
 .about {
     display: flex;
     justify-content: center;
